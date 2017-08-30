@@ -11,4 +11,7 @@ The cat makes a meow sound
 The dog makes a bark sound 
 The duck makes a quack sound 
 
-Included is my database class that I use for most of my projects.
+A live sample of animal_class can be found at: http://waylondixon.com/workbench.php.
+
+# database_class file
+The file database_class is a sample of my code that I am proudest about. It has been used for most of my projects.
