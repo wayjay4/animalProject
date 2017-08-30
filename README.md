@@ -10,3 +10,5 @@ The animals each make a sound, but they are different. There should be a require
 The cat makes a meow sound 
 The dog makes a bark sound 
 The duck makes a quack sound 
+
+Included is my database class that I use for most of my projects.
